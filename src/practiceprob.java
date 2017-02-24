@@ -1,9 +1,13 @@
+/*
+ * Lampert, Jake(33%), Kuciel, Victor(33%), Martel, Lorna(33%); 
+ */
+
 import java.util.Scanner;
 import oi.ss.formula.functions.FinanceLib; 
 public class practiceprob {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 
 			
 			System.out.println("Enter your Annual Return after retirement (0-3%): ");
@@ -39,5 +43,5 @@ public class practiceprob {
 			System.out.println("what you need to save each month: " + "$" + monthlySaving);
 		}
 
-
 	}
+
